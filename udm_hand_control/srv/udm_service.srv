@@ -1,0 +1,7 @@
+std_msgs/Float32 Base
+std_msgs/Float32 thumb_base_palm
+std_msgs/Float32 thumb_end_to_thumb_base
+std_msgs/String group
+---
+bool res
+string message
